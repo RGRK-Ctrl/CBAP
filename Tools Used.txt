@@ -1,0 +1,5 @@
+Lucid Chart--- Entity Relationship Diagram (ER)
+Balsamiq--- Wireframes
+Process map--- Whimsical, Micrsoft visio
+Context diagram----Microsoft visio
+Activity Diagram---Whimsical (Flow chart)
